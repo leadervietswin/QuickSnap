@@ -106,7 +106,6 @@ namespace CardGames.GameLogic
 				_topCards[1].TurnOver();			// reveal card
 			}
 		}
-
 		/// <summary>
 		/// Update the game. This should be called in the Game loop to enable
 		/// the game to update its internal state.
